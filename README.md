@@ -22,7 +22,7 @@ File Upload/Export: XLSX + file-saver
 bash
 Copy
 Edit
-git clone https://github.com/your-username/data-alchemist.git
+git clone https://github.com/nishchal05/digitalyzdata.git
 cd data-alchemist
 2. Install dependencies
 bash
