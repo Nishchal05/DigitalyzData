@@ -61,7 +61,7 @@ Return only valid **JSON**. Do NOT return markdown or explanations.
 `.trim();
 
     const completion = await openai.chat.completions.create({
-      model: "mistralai/mistral-small-3.2-24b-instruct:free",
+      model: "google/gemma-3n-e4b-it:free",
       messages: [
         { role: "system", content: systemPrompt },
         {
